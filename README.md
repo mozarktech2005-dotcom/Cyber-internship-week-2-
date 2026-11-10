@@ -12,8 +12,7 @@ This report documents my Week 2 practical activities during my Cybersecurity Int
 The project covers footprinting, reconnaissance, information gathering, and network scanning using various Kali Linux tools.
 
 Full Project Report
-
-📄 "View Internship Week 2 Report (PDF)" (./Internship_week_2%20report.PDF)
+[View My Week 2 Report](<Internship_week_2 report.PDF>)
 
 The PDF contains the complete practical report, including:
 
