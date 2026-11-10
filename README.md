@@ -1,14 +1,29 @@
-# Penetration Testing Report: Footprinting & Network Scanning
+Penetration Testing Report: Footprinting & Network Scanning
 
-**Name:** Razak Moro
-**Program/Batch:** B084-Networkwalks
-**Week:** 02
-**Date:** 10 November 2026
+Name: Razak Moro
+Program/Batch: B084-Networkwalks
+Week: 02
+Date: 10 November 2026
 
-## Where to find the report
+Project Overview
 
-The full report, including all screenshot evidence, is in this PDF:
+This report documents my Week 2 practical activities during my Cybersecurity Internship at Networkwalks.
 
-👉 [Internship_week_2 report.PDF](Internship_week_2 report.PDF)
+The project covers footprinting, reconnaissance, information gathering, and network scanning using various Kali Linux tools.
 
-The screenshots are embedded in Section 8 (Evidences Collected) of the PDF.
+Full Project Report
+
+📄 "View Internship Week 2 Report (PDF)" (./Internship_week_2%20report.PDF)
+
+The PDF contains the complete practical report, including:
+
+- Tools and commands used.
+- Activities performed.
+- Findings and risk analysis.
+- Security recommendations.
+- Screenshots and practical evidence.
+
+Author
+
+Razak Moro
+Cybersecurity Intern | Networkwalks
