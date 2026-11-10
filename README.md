@@ -9,6 +9,6 @@ Footprinting & Network Scanning
 
 The full report, including all screenshot evidence, is in this PDF:
 
-👉 [Penetration_Testing_Report.pdf](Penetration_Testing_Report.pdf)
+[Internship_week_2 report.PDF](Internship_week_2 report.PDF)
 
 The screenshots are embedded in Section 8 (Evidences Collected) of the PDF.# Cyber-internship-week-2-
